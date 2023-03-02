@@ -11,7 +11,7 @@ Pasos primera actividad
 # 7 Crear Archivo README.md con el comando Touch
 # 8 Inicializar repositorio desde la carpeta "ejercicios" con el comando "GIT INIT"
 # 9 modificar desde VSC el archivo README.md ingresando una linea de texto " Version inicial" guardar con "Control S"
-# 9 Crear un primer commit con un mensaje "Version inicial" desde Git comandos usados: 
+# 9 Crear un primer commit con un mensaje ("Version inicial") desde Git comandos usados: 
 - Git status
 - Git add .
 - Git Commit -m "Version inicial"
@@ -25,3 +25,11 @@ Pasos primera actividad
 # 13 Verificacion de Actualizacion del correo con el comando "git config --global user.email" "
 - git config --global user.email
 - git config --global user.name
+# 14 Agregar  Commit  git commit -m "Solucion primer ejercicio"
+# 15 Abrir Github- Crear repositorio nuevo "aspirantes-mir-ejercicio-1" 
+# 16 Copiar URL git@github.com:Edprogress/aspirantes-mir-ejercicio-1.git
+# Ir a  Git ejecutar :  
+- git remote add origin git@github.com:Edprogress/aspirantes-mir-ejercicio-1.git
+- git push origin main 
+  Digitar clave 
+# 17 realizar ultimo commit de Cierre del ejercicio: git commit -m "Finalizacion del ejercicio"
