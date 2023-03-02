@@ -15,4 +15,13 @@ Pasos primera actividad
 - Git status
 - Git add .
 - Git Commit -m "Version inicial"
-# 10 nuevo commit despues de agregar los pasos (git commit -m "Agregando pasos") 
+# 10 Nuevo commit despues de agregar los pasos (git commit -m "Agregando pasos")
+# 11 Revisar que los commits se hallan realizado con el comando "git log"
+# 12 Configurar User y Email en git, usando los comandos:  
+- git config --list
+- git config --global user.email "erltech.up@gmail.com
+- git config --global user.name "Edinson Rojas"
+
+# 13 Verificacion de Actualizacion del correo con el comando "git config --global user.email" "
+- git config --global user.email
+- git config --global user.name
